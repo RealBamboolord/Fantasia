@@ -2169,8 +2169,8 @@
 		"movement": 2,
 		"requiredResource": "Vampiric Block",
 		"uniques": ["Can instantly construct a [Vampire Castle] improvement <by consuming this unit>", 
-					"Uncapturable", 
-					"Only available <with [Vampiric Block]>", 
+					"Uncapturable",
+					"Only available <with [Vampiric Block]>",
 					"Will not be displayed in Civilopedia"],
 		"civilopediaText": [
 			{"text": "Damphyr main value is to construct Vampire Castle."}
@@ -2182,6 +2182,7 @@
 		"uniqueTo": "Morlovia",
 		"movement": 2,
 		"strength": 24,
+		"cost": 150,
 		"uniques": ["Unbuildable", 
 					"Can build [Coffin] improvements on tiles", 
 					"[+5] HP when healing <in [Coffin] tiles>", 
