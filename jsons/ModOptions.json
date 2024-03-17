@@ -1,0 +1,8 @@
+{
+	"isBaseRuleset": true,
+	"constants": {
+		"maxXPfromBarbarians": 360,
+		"cityStrengthFromGarrison": 0.3
+	},
+	"uniques": ["Can trade civilization introductions for [150] Gold"]
+}

@@ -1,2 +1,12 @@
 # Fantasia
-A temporary Revival of Amfauzn's mod until his Github account is back up. Star to get it back up on the mod list. You can download this to overwrite amfauzn's mod, as I will only do small fixes and QoL changes
+Play a fantasy race in a fantasy world.
+Built around Ancient Empires II, and then expanded.
+
+## Features
+- Fantasy races (Elven, Dwarven, Goblin, Undead, Demonic, Beastmen, Dryad, Merfolk, Drow, Gnome)
+- Dungeon, grant bonuses when cleared
+- Mythycal beast, powerful monster that can one-hit kill any units, except heroes
+- Brand new unit class: Construct, Mage, Monk, Air Terror, Water Terror, Tamer, & Hero
+- Capital Domination Victory, conquer capital owned by other civs, while Domination Victory works as usual
+- Skills, to strengthen your army
+- Fantasy tech tree, combined with vanilla
