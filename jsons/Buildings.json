@@ -58,7 +58,7 @@
 		"uniques": ["[+1 Science] [in this city] <after discovering [Writing]>", 
 					"Destroyed when the city is captured"],
 		"civilopediaText": [
-			{"text": "An edifice with scripture, built to commemorate an important event and  accomplishment."}
+			{"text": "An edifice with scripture, built to commemorate an important event and accomplishment."}
 		]
 	},
 	{
@@ -67,7 +67,7 @@
 		"cityHealth": 3,
 		"cost": 1,
 		"uniques": ["Provides [1] [Megall]", "Provides [1] [Pearls]", "Provides [1] [Whales]", "Provides [1] [Crab]", 
-					"Must have an owned [Phantom Island] within [3] tiles", "Will not be displayed in Civilopedia"]
+					"Automatically built in all cities where it is buildable","Must have an owned [Phantom Island] within [3] tiles", "Will not be displayed in Civilopedia"]
 	},
 	
 	// Column 2
@@ -83,7 +83,7 @@
 					"[+1 Food] from [Citrus] tiles [in this city]"],
 		"requiredTech": "Pottery",
 		"civilopediaText": [
-			{"text": "A building to store grain for human or animal (or both)."}
+			{"text": "A building to store grain for humans or animals (or both)."}
 		]
 	},
 	{
@@ -187,7 +187,7 @@
 					"Destroyed when the city is captured"],
 		"requiredTech": "Masonry",
 		"civilopediaText": [
-			{"text": "A tall and wonderful walls for keeping enemy away. Even an ant couldn't pass it without the Malusian's permission."}
+			{"text": "Tall and wonderful walls for keeping enemy away. Even an ant couldn't pass it without the Malusian's permission."}
 		]
 	},
 	{
