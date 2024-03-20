@@ -599,7 +599,7 @@
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
-					"Can only be built [in annexed cities]",
+					"Can only be built <in [Annexed] cities>",
 					"Never destroyed when the city is captured"],
 		"requiredTech": "Mathematics",
 		"civilopediaText": [
@@ -614,8 +614,8 @@
 		"specialistSlots": {"Alchemist": 1},
 		"cost": 125,
 		"requiredTech": "Mathematics",
-		"uniques": ["Remove extra unhappiness from annexed cities", 
-					"Can only be built [in annexed cities]", 
+		"uniques": ["Remove extra unhappiness from annexed cities",
+					"Can only be built <in [Annexed] cities>",
 					"Unlock Alchemica specialist slot (+2 Science, +2 Gold, +2 Production)",
 					"Never destroyed when the city is captured", "Unsellable"],
 		"civilopediaText": [
